@@ -19,7 +19,7 @@ After graduation, I hope to be a policy analyst for a non-profit or a municipal 
 
 ### [Visualizing Government Debt](https://taypopp.github.io/Popp-Portfolio/GovtDebt.html)
 
-### [News Organizations' Trust Scores](https://taypopp.github.io/Popp-Portfolio/newstrust.html)
+### [Trust in News Media Organizations](https://taypopp.github.io/Popp-Portfolio/newstrust.html)
 
 ### Critique by Design
 
