@@ -34,5 +34,20 @@ Beyond the main issues with the visualization, I also wanted to play with color.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11849358"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Testing the Sketches
+
+I reached out to two individuals to test my sketches. I informed them that the two charts are different visualizations of the same data. I asked them the following questions:
+
+- What are the visualizations telling you?
+- How do the visualizations make you feel about the data? Do the two visualizations make you feel differently?
+- Is there anything that confuses you about the visualizations?
+- Is there anything you would do differently to visualize this data?
+
+### Student, mid 20's
+
+
+
+### Professional, mid 50's
+
 
 [Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
