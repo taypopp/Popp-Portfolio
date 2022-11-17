@@ -69,7 +69,7 @@ There were two specific suggestions: make the axis labels darker and include few
 
 ## Final Visualization
 
-This final visualization shows the number of employees various tech companies have laid off in 2022. Only companies listed in the [original data source](https://news.crunchbase.com/startups/tech-layoffs-2022/) that have laid off at least 500 companies this year were included, which resulted in a final dataset of 28 companies. The companies are listed in reverse order of number of layoffs. Amazon had the highest number with 10,000 layoffs and is therefore highlighted in a different color at the top. While it was not mentioned in my feedback, I also decided to include data label for each bar to further emphasize the number of layoffs. This provides a more intuitive and impactful visualizaiton of layoffs in the tech industry than the original visualization, which included more information than the viewer needed.
+This final visualization shows the number of employees various tech companies have laid off in 2022. Only companies listed in the [original data source](https://news.crunchbase.com/startups/tech-layoffs-2022/) that have laid off at least 500 companies this year were included, which resulted in a final dataset of 28 companies. The companies are listed in reverse order of number of layoffs. Amazon had the highest number with 10,000 layoffs and is therefore highlighted in a different color at the top. This provides a more intuitive and impactful visualizaiton of layoffs in the tech industry than the original visualization, which included more information than the viewer needed.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11850136"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
