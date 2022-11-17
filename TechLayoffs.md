@@ -45,18 +45,18 @@ I reached out to two individuals to test my sketches. I informed them that the t
 
 ### Student, mid 20's
 
-**- What are the visualizations telling you?** The number of employees that different tech companies have laid off in 2022
-**- How do the visualizations make you feel about the data? Do the two visualizations make you feel differently?** I’m more shocked by the second visualization, because I can see better how much higher the Amazon bar is. It’s also clearer to me, since the company names are oriented in a more easily readable way.
-**- Is there anything that confuses you about the visualizations?** In the first visualization, the title highlights that Amazon is the highest. However, Amazon isn’t included in the x-axis labels. I’m also curious about more recent data, now that we know Twitter has been laying off many of its employees under new leadership. 
-**- Is there anything you would do differently to visualize this data?** I think it could help to darken the axis labels just a little bit, for better legibility.
+- **What are the visualizations telling you?** The number of employees that different tech companies have laid off in 2022
+- **How do the visualizations make you feel about the data? Do the two visualizations make you feel differently?** I’m more shocked by the second visualization, because I can see better how much higher the Amazon bar is. It’s also clearer to me, since the company names are oriented in a more easily readable way.
+- **Is there anything that confuses you about the visualizations?** In the first visualization, the title highlights that Amazon is the highest. However, Amazon isn’t included in the x-axis labels. I’m also curious about more recent data, now that we know Twitter has been laying off many of its employees under new leadership. 
+- **Is there anything you would do differently to visualize this data?** I think it could help to darken the axis labels just a little bit, for better legibility.
 
-### Professional, mid 50's
+### Student, mid 20's
 
 
 ### Feedback Conclusions
 
 
-##
+## Final Visualization
 
 
 [Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
