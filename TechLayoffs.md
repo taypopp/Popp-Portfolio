@@ -22,8 +22,17 @@ Additionally, the time axis is not relevant. All of the data is from 2022 and th
 
 Finally, the use of circles themselves makes the comparisons more difficult. The use of circles to represent the number of layoffs only allows the viewer to make comparisons with large discrepancies, because small discrepancies are hard to see with round shapes. 
 
-### Initial Sketches
+## Initial Sketches
 
+In sketching original ideas for the new visualization, I wanted to address the three main issues I identified above. To address the number of circles on the visualization, I limited the included companies to those with at least 300 layoffs in 2022. This left me with 42 companies rather than the original 219. 
+
+I removed the time element by changing the chart type. I knew I wanted to use a simpler chart type that would allow me to focus on differences in layoffs. Column and bar charts came to mind, so I tried both options. This also addressed the issue of comparisons between circles; bars are far easier to compare than circles. 
+
+Beyond the main issues with the visualization, I also wanted to play with color. I wanted to highlight the company with the most layoffs, and I figured the best way to do this was via color. I started by using blue and yellow, which plays on the blue in the original visualization. I also tried using different shades of red, since layoffs are generally considered a bad thing. The red could therefore convey the urgency of the situation. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11849340"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11849358"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 [Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
