@@ -2,11 +2,11 @@
 
 While scrolling Twitter, I saw a [tweet](https://twitter.com/ECONdailycharts/status/1589981363666558977?s=20&t=Bb6CQG6eA0rLbPP7uwkYBA) from The Economist Data Team (@ECONdailycharts) from November 8, 2022:
 
-IMAGE HERE
+![tweet](https://taypopp.github.io/Popp-Portfolio/tweet.jpg)
 
 I followed the link in the tweet to an article from The Economist from November 7, 2022: [Meta will lay off 13% of its workforce](https://www.economist.com/graphic-detail/2022/11/07/meta-will-lay-off-13-of-its-workforce?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content&%3Ffsrc%3Dscn%2F=tw%2Fdc). This article showed a different version of the visualization:
 
-IMAGE HERE
+![viz](https://taypopp.github.io/Popp-Portfolio/viz.jpg)
 
 There is a lot going on in this visualization. The vertical axis represents different industries under the tech umbrella and the horizontal axis represents time as months in 2022. Each circle represents a company, and the size of the circle represents the number of 2022 layoffs that have occurred. The company is placed on the time axis based on the most recent layoff date, but the size represents all 2022 layoffs, regardless of date. 
 
