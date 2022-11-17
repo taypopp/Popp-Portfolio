@@ -22,6 +22,8 @@ Additionally, the time axis is not relevant. All of the data is from 2022 and th
 
 Finally, the use of circles themselves makes the comparisons more difficult. The use of circles to represent the number of layoffs only allows the viewer to make comparisons with large discrepancies, because small discrepancies are hard to see with round shapes. 
 
+In going through Few's critique method, I saw two main themes in the seven different topics: engagement (usefulness, engagement, and aesthetic) that targets whether the visualization is correct for the audience and effectiveness (completeness, perceptibility, truthfulness, and intuitiveness) that targets how well the visualization conveys information. Overall, I think the visualization struggles more with effectiveness than with engagement. The original visualization is interesting and the overall concept is likely engaging for readers of The Economist. However, there are unlabelled data and superfluous dimensions that cloud the point of the visualization. 
+
 ## Initial Sketches
 
 In sketching original ideas for the new visualization, I wanted to address the three main issues I identified above. To address the number of circles on the visualization, I limited the included companies to those with at least 300 layoffs in 2022. This left me with 42 companies rather than the original 219. 
@@ -52,11 +54,17 @@ I reached out to two individuals to test my sketches. I informed them that the t
 
 ### Student, mid 20's
 
+- **What are the visualizations telling you?** 
+- **How do the visualizations make you feel about the data? Do the two visualizations make you feel differently?** 
+- **Is there anything that confuses you about the visualizations?** 
+- **Is there anything you would do differently to visualize this data?** 
 
 ### Feedback Conclusions
 
 
 ## Final Visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11850136"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 [Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
