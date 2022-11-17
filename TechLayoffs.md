@@ -54,15 +54,22 @@ I reached out to two individuals to test my sketches. I informed them that the t
 
 ### Student, mid 20's
 
-- **What are the visualizations telling you?** 
-- **How do the visualizations make you feel about the data? Do the two visualizations make you feel differently?** 
-- **Is there anything that confuses you about the visualizations?** 
-- **Is there anything you would do differently to visualize this data?** 
+- **What are the visualizations telling you?** The number of layoffs at tech companies so far in 2022
+- **How do the visualizations make you feel about the data? Do the two visualizations make you feel differently?** The second visualization places a lot more emphasis on what’s going on. The Amazon bar, which is the largest and therefore most prominent, stretches all the way across the screen. This highlights the extent of the layoffs better.
+- **Is there anything that confuses you about the visualizations?** The first visualization only includes every other company label, leaving a lot of questions about which companies those are.
+- **Is there anything you would do differently to visualize this data?** The second vizualization is a bit large. It’s hard to view the whole thing with the axis visible.
 
 ### Feedback Conclusions
 
+The feedback I received largely showed preference for the second visualization. The orientation of the bars allowed for the company names to be listed more legibly and made more of an impact. 
+
+There were concerns about the labels in the first visualization, as only every other label was shown. I was not able to fix this, but it won't be an issue as I am moving forward with the orientation of the second visualization. 
+
+There were two specific suggestions: make the axis labels darker and include fewer companies. I chose to incorporate both in the final visualization.
 
 ## Final Visualization
+
+This final visualization shows the number of employees various tech companies have laid off in 2022. Only companies listed in the [original data source](https://news.crunchbase.com/startups/tech-layoffs-2022/) that have laid off at least 500 companies this year were included, which resulted in a final dataset of 28 companies. The companies are listed in reverse order of number of layoffs. Amazon had the highest number with 10,000 layoffs and is therefore highlighted in a different color at the top. While it was not mentioned in my feedback, I also decided to include data label for each bar to further emphasize the number of layoffs. This provides a more intuitive and impactful visualizaiton of layoffs in the tech industry than the original visualization, which included more information than the viewer needed.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11850136"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
