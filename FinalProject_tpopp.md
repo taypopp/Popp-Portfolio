@@ -24,3 +24,5 @@ This reduced access can be seen on multiple fronts. First, marginalized communit
 ## Method and Medium
 
 The final deliverable of this project will be a story on Shorthand. There will five sections, as outlined above. Images will portray green space and the disparities in access thereof.
+
+[Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
