@@ -21,6 +21,10 @@ This reduced access can be seen on multiple fronts. First, marginalized communit
 
 - **What can we do?** We can implement [more urban green spaces](https://www.nrpa.org/our-work/partnerships/initiatives/parks-for-inclusion/policy-guide/) and [make national parks safer spaces](https://seas.umich.edu/news/creating-welcoming-spaces-national-parks-all-visitors) for people of color. The [Hazelwood Initiative](https://www.hazelwoodinitiative.org/projects-8) in Pittsburgh and other organizations are trying to change the culture around outdoor activities to be more inclusive. This will mostly be imagery.
 
+## Data
+
+The data sources I plan to use at this stage are linked in the outline above. The shape files for green space and demographics come from cities' open source databases. Demographics of national park visitors come from an NPA survey, and the data on why people of color might avoid outdoor activities comes from a [peer-reviewed survey](https://journals.sagepub.com/doi/10.1123/rsj.35.2.130#core-collateral-purchase-access). Data on the connection between green space, air quality, and health come from report by the David Suzuki Foundation. Data on green space and exercise come from the NHS [Health Survey of England](https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/health-survey-for-england-2004-health-of-ethnic-minorities-headline-results). 
+
 ## Method and Medium
 
 The final deliverable of this project will be a story on Shorthand. There will five sections, as outlined above. Images will portray green space and the disparities in access thereof.
