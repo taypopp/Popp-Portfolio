@@ -22,3 +22,5 @@ After graduation, I hope to be a policy analyst for a non-profit or a municipal 
 ### [Trust in News Media Organizations](https://taypopp.github.io/Popp-Portfolio/newstrust.html)
 
 ### [Critique by Design: Tech Company Layoffs](https://taypopp.github.io/Popp-Portfolio/TechLayoffs.html)
+
+### [Final Project Part 1: Inequity in Green Space](https://taypopp.github.io/Popp-Portfolio/FinalProject_tpopp.html)
