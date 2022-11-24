@@ -7,9 +7,18 @@ This reduced access can be seen on multiple fronts. First, marginalized communit
 ## Outline
 
 - **There is a discrepancy in access to urban green space.** This will be shown via maps. A collection of maps that depict green space in a few cities (Pittsburgh, [New York](https://data.cityofnewyork.us/browse?q=GIS+green+space+), etc.) will be shown on the left side of the screen. There will be a transition to the right side of the screen, which will depict [race](https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/pittsburghpa::parks-open-space-plan-transition-data/explore?location=40.453841%2C-79.934124%2C11.44)/[income](https://pghgishub-pittsburghpa.opendata.arcgis.com/datasets/pittsburghpa::pittsburgh-2014-cdbg-block-groups/explore?location=40.429365%2C-79.981385%2C11.26) overlaid onto the map of green space.
+![maps](https://taypopp.github.io/Popp-Portfolio/)
+
 - **Why does this discrepancy exist?** There will be some [background information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3590901/) here about why marginalized communities have systemically lower access to urban green space.
 - **What about national park access/use?** Pie charts will be used to display the racial and income [breakdown of national park visitors](https://irma.nps.gov/DataStore/DownloadFile/495294#page19). There will also be a visualization showing [survey results](https://cnr.ncsu.edu/news/2022/02/historic-discrimination-to-blame-for-diversity-gap-in-us-parks-expert-says/) that describe why people of color don't use national parks at the same rates as their white counterparts (time, culture/safety, cost).
+![pies](https://taypopp.github.io/Popp-Portfolio/)
+![survey](https://taypopp.github.io/Popp-Portfolio/)
 - **Why does this matter?** Visualizations will be used to depict the [effect](https://www.sciencedirect.com/science/article/abs/pii/S1353829218312863) of urban green space on regional air quality and how that [impacts public health](https://davidsuzuki.org/wp-content/uploads/2017/09/impact-green-space-heat-air-pollution-urban-communities.pdf). The same will be done to show the relationship between green space use/access, [exercise](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444752/), and [public](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3710158/)/[mental](https://blogs.iu.edu/ecohealth/2021/05/04/the-association-between-green-space-and-physical-activity-on-mental-health/) health.
+![map](https://taypopp.github.io/Popp-Portfolio/)
+![line](https://taypopp.github.io/Popp-Portfolio/)
+![bar](https://taypopp.github.io/Popp-Portfolio/)
+![lines](https://taypopp.github.io/Popp-Portfolio/)
+
 - **What can we do?** We can implement [more urban green spaces](https://www.nrpa.org/our-work/partnerships/initiatives/parks-for-inclusion/policy-guide/) and [make national parks safer spaces](https://seas.umich.edu/news/creating-welcoming-spaces-national-parks-all-visitors) for people of color. The [Hazelwood Initiative](https://www.hazelwoodinitiative.org/projects-8) in Pittsburgh and other organizations are trying to change the culture around outdoor activities to be more inclusive. This will mostly be imagery.
 
 ## Method and Medium
