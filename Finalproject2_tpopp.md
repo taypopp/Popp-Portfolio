@@ -54,3 +54,5 @@ I am personally a fan of outdoor activities, so I am familiar with several indiv
 - Play with the park visitation visual. Census data considers Hispanic as its own race in this table that was used, whereas the park visitation numbers do not. I need to pull original Census data.
 - Add a legend to the Pittsburgh map.
 - Bulk written sections.
+
+[Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
