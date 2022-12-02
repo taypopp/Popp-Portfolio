@@ -27,16 +27,16 @@ I am personally a fan of outdoor activities, so I am familiar with several indiv
 | What can you personally do to help this problem? | Get more involved in efforts to create and maintain green spaces that are accessible to more diverse audiences. |
 | Is there anything you would do differently in this storyboard? | Add a caption or legend to the map at the top.  |
 
-### Student/Hiker, White, 20's
+### Professional/Hiker, White, 20's
 
 | Question | Response |
 | ------------- | ------------- | 
-| What is your main takeaway from this storyboard? | |
-| How do you feel after looking at this storyboard? | |
-| How important of a problem do you think this is? | |
-| Is there anything you were confused about in the storyboard? | |
-| What can you personally do to help this problem? |  |
-| Is there anything you would do differently in this storyboard? |  |
+| What is your main takeaway from this storyboard? | There are significant differential health outcomes as a result of the significant differences in green space by race. |
+| How do you feel after looking at this storyboard? | Intrigued about the information, it's interesting, but also frustrated about the implications of how these systems exist. |
+| How important of a problem do you think this is? | It's so specific; health is definitely important but health is a multifaceted beyond greenspace. I'd want to know the effect-per-dollar of investing in green space for public helath outcomes. |
+| Is there anything you were confused about in the storyboard? | No confusion. The graph for the health meta analysis could be confusing, but the explanation made it understandable. |
+| What can you personally do to help this problem? | Being more intentional in how interactions happen in the public green spaces. |
+| Is there anything you would do differently in this storyboard? | I wonder if the meta analysis data could be presented in a more intuitive way that wouldn't require as much explanation. |
 
 ### Student/Hiker, White, 20's
 
