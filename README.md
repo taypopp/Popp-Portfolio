@@ -25,4 +25,4 @@ After graduation, I hope to be a policy analyst for a non-profit or a municipal 
 
 ### [Final Project Part 1: Inequity in Green Space](https://taypopp.github.io/Popp-Portfolio/FinalProject_tpopp.html)
 
-### [Final Project Part 2: Inequity in Green Space](https://taypopp.github.io/Popp-Portfolio/FinalProject2_tpopp.html)
+### [Final Project Part 2: Inequity in Green Space](https://taypopp.github.io/Popp-Portfolio/Finalproject2_tpopp.html)
