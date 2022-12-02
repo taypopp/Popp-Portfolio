@@ -38,21 +38,24 @@ I am personally a fan of outdoor activities, so I am familiar with several indiv
 | What can you personally do to help this problem? | Being more intentional in how interactions happen in the public green spaces. |
 | Is there anything you would do differently in this storyboard? | I wonder if the meta analysis data could be presented in a more intuitive way that wouldn't require as much explanation. |
 
-### Student/Hiker, White, 20's
+### Student/Hiker, White, 30's
 
 | Question | Response |
 | ------------- | ------------- | 
-| What is your main takeaway from this storyboard? | |
-| How do you feel after looking at this storyboard? | |
-| How important of a problem do you think this is? | |
-| Is there anything you were confused about in the storyboard? | |
-| What can you personally do to help this problem? |  |
-| Is there anything you would do differently in this storyboard? |  |
+| What is your main takeaway from this storyboard? | Access to public lands is currently inequitable but we can do something about it.|
+| How do you feel after looking at this storyboard? | Frustration, and then hope. |
+| How important of a problem do you think this is? | Personally, I think it's a big problem. |
+| Is there anything you were confused about in the storyboard? | The initial bolded line about urban green space made me think we were only talking about urban spaces, but then we moved to public lands. It could have been introduced as both early on before to avoid that. The chart about the health outcomes was confusing. I didn't know what the associations were. |
+| What can you personally do to help this problem? | I have less understanding of what I can do for the urban space. I can't increase green spaces, nor am I a hiring manager of a public land agency, nor am I in an organization such as Outdoor Afro. I can be more inclusive when I'm in public spaces. |
+| Is there anything you would do differently in this storyboard? | I was thinking about the initial Pittsburgh map. You could take out the stuff on urban areas and focus on national public lands to simplify, or you could add more information about the reasons (access, segregation, etc.) to tie it in better. Just include an intro about "there are different kinds of public space" to put everyone on the same page about the land we're talking about. Access: cost of renting a campsite/park day pass/gear. |
 
 ### Next Steps
 - Finalize the visualizations, especially for the health benefits.
 - Play with the park visitation visual. Census data considers Hispanic as its own race in this table that was used, whereas the park visitation numbers do not. I need to pull original Census data.
 - Add a legend to the Pittsburgh map.
 - Bulk written sections.
+- Change the title of the visitation graph.
+- add an introduction to ground the audiend in the issue
+- Be more explicit about what the individual can do about the issue.
 
 [Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
