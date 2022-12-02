@@ -16,16 +16,38 @@ The target audience of this story is a combination of policy makers and those wh
 
 I am personally a fan of outdoor activities, so I am familiar with several individuals in this category. I reached out to people who I know enjoy hikes and camping, as well as those who frequently use urban green space. 
 
-### Script and Responses
+### Student/Hiker, White, 20's
 
-| Question | Student\Hiker, 20's | Student\Hiker, 30's | Professional\Hiker, 50's |
-| ------------- | ------------- | ------------- | ------------- |
-| What is your main takeaway from this storyboard? | Green spaces of all types are extremely segregated and dominated by white people, which is bad for obvious reasons. | c | c |
-| How do you feel after looking at this storyboard? | Unease at the part I may have played in this, frustration. | c | c |
-| How important of a problem do you think this is? | Extremely important, associated with all sorts of health outcomes and exercise and mental health. | c | c |
-| Is there anything you were confused about in the storyboard? | Why are there negative associations between green space use and asthma? | c | c |
-| What can you personally do to help this problem? | Get more involved in efforts to create and maintain green spaces that are accessible to more diverse audiences. | c | c |
-| Is there anything you would do differently in this storyboard? | Add a caption or legend to the map at the top.  | c | c |
+| Question | Response |
+| ------------- | ------------- | 
+| What is your main takeaway from this storyboard? | Green spaces of all types are extremely segregated and dominated by white people, which is bad for obvious reasons. |
+| How do you feel after looking at this storyboard? | Unease at the part I may have played in this, frustration. |
+| How important of a problem do you think this is? | Extremely important, associated with all sorts of health outcomes and exercise and mental health. |
+| Is there anything you were confused about in the storyboard? | Why are there negative associations between green space use and asthma? |
+| What can you personally do to help this problem? | Get more involved in efforts to create and maintain green spaces that are accessible to more diverse audiences. |
+| Is there anything you would do differently in this storyboard? | Add a caption or legend to the map at the top.  |
+
+### Student/Hiker, White, 20's
+
+| Question | Response |
+| ------------- | ------------- | 
+| What is your main takeaway from this storyboard? | |
+| How do you feel after looking at this storyboard? | |
+| How important of a problem do you think this is? | |
+| Is there anything you were confused about in the storyboard? | |
+| What can you personally do to help this problem? |  |
+| Is there anything you would do differently in this storyboard? |  |
+
+### Student/Hiker, White, 20's
+
+| Question | Response |
+| ------------- | ------------- | 
+| What is your main takeaway from this storyboard? | |
+| How do you feel after looking at this storyboard? | |
+| How important of a problem do you think this is? | |
+| Is there anything you were confused about in the storyboard? | |
+| What can you personally do to help this problem? |  |
+| Is there anything you would do differently in this storyboard? |  |
 
 ### Next Steps
 - Finalize the visualizations, especially for the health benefits.
