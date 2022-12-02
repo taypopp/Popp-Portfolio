@@ -1,7 +1,7 @@
 # A Gap in Green Space
 
 See the progression here!
-- [Part 2](https://taypopp.github.io/Popp-Portfolio/FinalProject2_tpopp.html)
+- [Part 2](https://taypopp.github.io/Popp-Portfolio/Finalproject2_tpopp.html)
 - Part 3 Coming Soon!
 
 ## Intro
