@@ -6,6 +6,10 @@ See the progression here!
 
 ## [Storyboard](https://preview.shorthand.com/uB4iZKHSfW6qM1d6)
 
+In creating this story board, I wonder whether the importance of this issue comes across. The current mood with the images I've chosen leans toward the green space visuals, but does that distract from the environmental justice issue? I want to make sure that the main points of this story come across and that viewing this storyboard invokes feelings about discrimination rather than feelings about green spaces.
+
+I also want to make sure the storyboard is accessible to the audience of interest. I'm largely hoping to target people who enjoy the outdoors, as they are the ones who need to make it a more inviting space for people of color. Those who enjoy the outdoors, though, span a broad range of people. I need to make sure my data visualizations are approachable while still being informative.
+
 ## User Research
 
 The target audience of this story is a combination of policy makers and those who either already engage in outdoor activities or would like to start doing so. These are the people who can either benefit from the information or are in a position to do something about it. 
