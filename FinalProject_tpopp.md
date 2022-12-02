@@ -1,5 +1,11 @@
 # A Gap in Green Space
 
+See the progression here!
+- [Part 2](https://taypopp.github.io/Popp-Portfolio/FinalProject2_tpopp.html)
+- Part 3 Coming Soon!
+
+## Intro
+
 Green space access brings with it a variety of benefits, and this access is not equitably distributed. Studies show that communities of color and low income communities have reduced access to green space than their wealthy white counterparts. This reduced access leads to worsened air quality and lower rates of exercise, which ultimately result in harmful health outcomes. 
 
 This reduced access can be seen on multiple fronts. First, marginalized communities have lower access to urban green spaces and parks near their homes. Additionally, people of color are significantly less likely to visit national parks. There are a variety of reasons for this discrepancy, but the primary source of this is prejudice and a sense of exclusivity in the outdoors community. This lack of green space access and use lead to the negative health outcomes outlined above.
