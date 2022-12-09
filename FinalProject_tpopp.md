@@ -2,7 +2,7 @@
 
 See the progression here!
 - [Part 2](https://taypopp.github.io/Popp-Portfolio/Finalproject2_tpopp.html)
-- Part 3 Coming Soon!
+- [Part 3](https://taypopp.github.io/Popp-Portfolio/finalproject3_tpopp.html)
 
 ## Intro
 
