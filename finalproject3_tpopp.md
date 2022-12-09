@@ -1,6 +1,8 @@
 # A Gap in Green Space
 
 See the progression here!
+- [Part 1](https://taypopp.github.io/Popp-Portfolio/FinalProject_tpopp.html)
+- [Part 2](https://taypopp.github.io/Popp-Portfolio/FinalProject2_tpopp.html)
 
 ## See the Final Story [Here](https://carnegiemellon.shorthandstories.com/a-gap-in-green-space/)!
 
@@ -21,3 +23,6 @@ There are more visualizations in part 3 than there were in part 2. This is becau
 ### Aesthetic
 
 In part 2 of the project, I hadn't fully decided on an aesthetic or any particular color scheme. Since this is a somber topic about inequity, I figured that a dark theme would be more impactful than the default white theme from part 2. Since the topic is on green space, it also seemed natural to use green in the presentation. That left me with uncertainty, though. My first inclination was to use red as the additional color, but that ran the risk of 1) looking like a Christmas theme and 2) being difficult to interpret for people with color blindness. I therefore decided to use orange alongside green. This seems to have maintained the urgency I wanted from the red while avoiding the previously mentioned issues. 
+
+[Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
+
