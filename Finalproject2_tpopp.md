@@ -1,8 +1,8 @@
-# Inequity in Green Space
+# A Gap in Green Space
 
 See the progression here!
 - [Part 1](https://taypopp.github.io/Popp-Portfolio/FinalProject_tpopp.html)
-- [Part 3](https://taypopp.github.io/Popp-Portfolio/finalProject3_tpopp.html)
+- [Part 3](https://taypopp.github.io/Popp-Portfolio/finalproject3_tpopp.html)
 
 ## [Storyboard](https://preview.shorthand.com/uB4iZKHSfW6qM1d6)
 
