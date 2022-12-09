@@ -2,7 +2,7 @@
 
 See the progression here!
 - [Part 1](https://taypopp.github.io/Popp-Portfolio/FinalProject_tpopp.html)
-- [Part 2](https://taypopp.github.io/Popp-Portfolio/FinalProject2_tpopp.html)
+- [Part 2](https://taypopp.github.io/Popp-Portfolio/Finalproject2_tpopp.html)
 
 ## See the Final Story [Here](https://carnegiemellon.shorthandstories.com/a-gap-in-green-space/)!
 
