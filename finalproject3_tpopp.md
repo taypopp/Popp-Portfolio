@@ -6,7 +6,7 @@ See the progression here!
 
 ## See the Final Story [Here](https://carnegiemellon.shorthandstories.com/a-gap-in-green-space/)!
 
-The abridged version used for the presentation can be found [here](https://carnegiemellon.shorthandstories.com/a-gap-in-green-space/). 
+The abridged version used for the presentation can be found [here](https://carnegiemellon.shorthandstories.com/a-gap-in-green-space-abridged-copy/). 
 
 ## Changes Since Part 2
 
