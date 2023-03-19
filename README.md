@@ -1,5 +1,5 @@
 # Popp-Portfolio
-Portfolio of data visualizations completed in Telling Stories with Data course at Carnegie Mellon University's Heinz College
+Portfolio of data visualizations completed in Telling Stories with Data and Advanced GIS courses at Carnegie Mellon University's Heinz College
 
 ## About me
 
@@ -9,11 +9,17 @@ I am broadly interested in environmental policy, with special interest in urban 
 
 ## What I hope to learn
 
-In this course, I hope to learn how to make intuitive, captivating data visualizations. A crucial component of moving cities toward equitable and sustainable practices is convincing various audiences that these changes are necessary. This involves clarity and relatability in the way information is presented, and I expect this class will help me to improve upon these skills.
+In Advanced GIS, I hope to further develop my mapping skills and expand my use of analytical tools in GIS. I would specifically like to learn about automation of GIS processes in Python and gain better understanding of project management skills in geospatial projects. Finally, I hope to learn about what it's like to do GIS projects outside of a classroom setting.
 
-After graduation, I hope to be a policy analyst for a non-profit or a municipal government. I would especially like to work on improving well-being of urban residents through things like land use policy, public transportation improvements, and methods of improving public and environmental health. I hope to use the skills I develop in this course to help municipal governments convey information to residents and other stakeholders about these important issues.
+In Telling Stories with Data, I hope to learn how to make intuitive, captivating data visualizations. A crucial component of moving cities toward equitable and sustainable practices is convincing various audiences that these changes are necessary. This involves clarity and relatability in the way information is presented, and I expect this class will help me to improve upon these skills.
 
-## Portfolio
+After graduation, I will be a Lead GIS Analyst for the City of Philadelphia. I would especially like to work on improving well-being of urban residents through things like land use policy, public transportation improvements, and methods of improving public and environmental health. I hope to use the skills I develop in this course to help municipal governments convey information to residents and other stakeholders about these important issues.
+
+## Advanced GIS Portfolio
+
+Coming Soon!
+
+## Telling Stories with Data Portfolio
 
 ### [King County Demo](https://taypopp.github.io/Popp-Portfolio/KingCountyDemo.html)
 
