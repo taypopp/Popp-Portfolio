@@ -17,7 +17,7 @@ After graduation, I will be a Lead GIS Analyst for the City of Philadelphia. I w
 
 ## Advanced GIS Portfolio
 
-### [Pittsburgh Summer Brew Fest 2023](https://taypopp.github.io/Popp-Portfolio/BrewFest2023.html
+### [Pittsburgh Summer Brew Fest 2023](https://taypopp.github.io/Popp-Portfolio/BrewFest2023.html)
 
 ## Telling Stories with Data Portfolio
 
