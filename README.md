@@ -19,6 +19,8 @@ After graduation, I will be a Lead GIS Analyst for the City of Philadelphia. I w
 
 ### [Pittsburgh Summer Brew Fest 2023](https://taypopp.github.io/Popp-Portfolio/BrewFest2023.html)
 
+### [World Wildlife Fund Custom Basemap Bid](https://taypopp.github.io/Popp-Portfolio/WWFbasemap.html)
+
 ## Telling Stories with Data Portfolio
 
 ### [King County Demo](https://taypopp.github.io/Popp-Portfolio/KingCountyDemo.html)
