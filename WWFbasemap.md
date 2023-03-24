@@ -14,7 +14,7 @@ Beyond that, there aren't any colors that are consistently used by WWF. Given th
 
 I also included two shades of gray. While there are more interesting colors used across the homepage (the image with the heading "People and communities," for instance), but shades of gray with a couple pops of color feels more consistent with WWF's brand.
 
-Download the style [here](https://taypopp.github.io/Popp-Portfolio/WWFbasemap.json)
+<a href="/files/WWFbasemap.json" download>Download the Style</a>
 
 ## In Action
 
