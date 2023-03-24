@@ -6,7 +6,7 @@ Download a printable version of the bid [here].
 
 ## Map Style
 
-[upload color palette here]
+![palette](https://taypopp.github.io/Popp-Portfolio/palette.png)
 
 I pulled inspiration for the map's style from the WWF website. There is simplicity in WWF's branding, with only solid black and white in the logo itself. The orange color is used for text and buttons on the site, as well.
 
