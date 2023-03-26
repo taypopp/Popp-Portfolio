@@ -18,7 +18,7 @@ I also included two shades of gray. While there are more interesting colors used
 
 To embed this style into the organization's existing web maps, team members can download the following JSON file. This file contains all relevant information for the style and can be quickly applied to an online map application, particularly in Google cloud based services. Within the organization's Google Cloud Console, go to map styles and create a new project. There will be an option to "Use the legacy JSON Styling Wizard." Select that option, click the three dots in the upper right corner, and select "Import JSON." From there, simply open the JSON style document as a text file, copy all code within the file, and paste it in the box for importing JSON files. Now your map will include your custom style!
 
-<a href="/WWFbasemap.json" download>Download the Style</a>
+<a id="raw-url" href="https://taypopp.github.io/Popp-Portfolio/WWFbasemap.json">Download FILE</a>
 
 ## In Action
 
