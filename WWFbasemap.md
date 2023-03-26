@@ -42,29 +42,29 @@ And Z zoom extent.
 
 | Feature Type | Element Type | Stylers |
 | ------------- | ------------- | ------------- |
-| All | Geometry | Color: Black |
-| All | Geometry/Stroke | Color: White |
-| All | Labels/Text Fill | Color: Orange |
-| All | Labels/Text Outline | Color: Black |
-| Administrative | Geometry | Color: Light Gray |
-| Administrative | Geometry/Stroke | Color: Light Gray |
-| Country | Geometry/Fill | Color: White |
-| Country | Geometry/Stroke | Color: White |
-| Country | Lables/Text Fill | Color: Light Gray |
-| Province | Geometry/Stroke | Color: Light Gray |
-| Locality | Labels/Text Fill | Color: Light Gray |
-| Land Parcel | All | Color: Light Gray |
-| Land Parcel | Geometry/Fill | Color: Dark Gray |
-| Points of Interest | Labels/Text Fill | Color: Light Gray |
-| Park | Geometry | Color: Dark Gray |
-| Park | Labels/Text Fill | Color: Green |
-| Park | Labels/Text Outline | Color: Black |
-| Road | Geometry/Fill | Color: Light Gray |
-| Road | Labels/Text Fill | Color: Light Gray |
-| Highway | Geometry | Color: Light Gray |
-| Controlled Access | Geometry | Color: Light Gray |
-| Arterial | Geometry | Color: Light Gray |
-| Local | Labels/Text Fill | Color: Light Gray |
-| Transit | Labels/Text Fill | Color: Dark Gray |
-| Water | Geometry | Color: Dark Gray |
-| Water | Labels/Text Fill | Color: Green |
+| All | Geometry | Color: Black (#000000) |
+| All | Geometry/Stroke | Color: White (#FFFFFF) |
+| All | Labels/Text Fill | Color: Orange (#C95B20) |
+| All | Labels/Text Outline | Color: Black (#000000) |
+| Administrative | Geometry | Color: Light Gray (#999999) |
+| Administrative | Geometry/Stroke | Color: Light Gray (#999999) |
+| Country | Geometry/Fill | Color: White (#FFFFFF) |
+| Country | Geometry/Stroke | Color: White (#FFFFFF) |
+| Country | Lables/Text Fill | Color: Light Gray (#999999) |
+| Province | Geometry/Stroke | Color: Light Gray (#999999) |
+| Locality | Labels/Text Fill | Color: Light Gray (#999999) |
+| Land Parcel | All | Color: Light Gray (#999999) |
+| Land Parcel | Geometry/Fill | Color: Dark Gray (#332F26) |
+| Points of Interest | Labels/Text Fill | Color: Light Gray (#999999) |
+| Park | Geometry | Color: Dark Gray (#332F26) |
+| Park | Labels/Text Fill | Color: Green (#728F1A) |
+| Park | Labels/Text Outline | Color: Black (#000000) |
+| Road | Geometry/Fill | Color: Light Gray (#999999) |
+| Road | Labels/Text Fill | Color: Light Gray (#999999) |
+| Highway | Geometry | Color: Light Gray (#999999) |
+| Controlled Access | Geometry | Color: Light Gray (#999999) |
+| Arterial | Geometry | Color: Light Gray (#999999) |
+| Local | Labels/Text Fill | Color: Light Gray (#999999) |
+| Transit | Labels/Text Fill | Color: Dark Gray (#332F26) |
+| Water | Geometry | Color: Dark Gray (#332F26) |
+| Water | Labels/Text Fill | Color: Green (#728F1A) |
