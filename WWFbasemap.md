@@ -26,15 +26,15 @@ Below you can see how the map looks at three different zoom extents. There are n
 
 ### Countries and Continents
 
-[countries picture here]
+![countries](https://taypopp.github.io/Popp-Portfolio/countries.png)
 
 ### States and Provinces
 
-[states picture here]
+![province](https://taypopp.github.io/Popp-Portfolio/province.png)
 
 ### Places and Parks
 
-[closeup image here]
+![place](https://taypopp.github.io/Popp-Portfolio/place.png)
 
 ## The Specifics
 
