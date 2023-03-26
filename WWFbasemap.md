@@ -2,7 +2,7 @@
 
 ## The Bid
 
-Download a printable version of the bid [here].
+Download a printable version of the bid [here](https://taypopp.github.io/Popp-Portfolio/ProjectBid.pdf).
 
 ## Map Style
 
