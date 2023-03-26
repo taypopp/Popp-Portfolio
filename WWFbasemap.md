@@ -20,6 +20,7 @@
 |03/26/23	|	Upload printable bid	|	0.25	|	0.25	|	$25	|
 | 	|	TOTAL	| 8.00	|	9.75	|	$975	|
 
+The original estimate for the project's timeline was fairly close to the final timeline. the primary areas where i underestimated time were areas that required unanticipated problem solving. For instance, it took longer than I'd expected to choose images for the palette. it also took longer than expected to create printable deliverables, as they required using platforms with which i was unfamiliar. in all, i underestimated the total time by 1.75 hours. i will be more thoughtful and provide more buffer when estimating unfamiliar tasks in the future.
 
 Download a printable version of the bid [here](https://taypopp.github.io/Popp-Portfolio/ProjectBid.pdf).
 
