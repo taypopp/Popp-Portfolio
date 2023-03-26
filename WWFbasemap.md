@@ -22,23 +22,17 @@ To embed this style into the organization's existing web maps, team members can 
 
 ## In Action
 
-Below you can see how the map looks at three different zoom extents.
+Below you can see how the map looks at three different zoom extents. There are no scale indicators in the Styling Wizard.
 
 ### Countries and Continents
-
-This is how the map looks at x zoom extent...
 
 [countries picture here]
 
 ### States and Provinces
 
-And y zoom extent...
-
 [states picture here]
 
 ### Places and Parks
-
-And Z zoom extent.
 
 [closeup image here]
 
