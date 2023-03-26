@@ -86,3 +86,5 @@ Below you can see how the map looks at three different zoom extents. There are n
 | Transit | Labels/Text Fill | Color: Dark Gray (#332F26) |
 | Water | Geometry | Color: Dark Gray (#332F26) |
 | Water | Labels/Text Fill | Color: Green (#728F1A) |
+
+[Return to Portfolio](https://taypopp.github.io/Popp-Portfolio)
