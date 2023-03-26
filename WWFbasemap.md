@@ -2,6 +2,10 @@
 
 ## The Bid
 
+| Date | Task | Estimated Hours | Actual Hours | Cost |
+| ------------- | ------------- | ------------- |
+| c | c | c | c | c |
+
 Download a printable version of the bid [here](https://taypopp.github.io/Popp-Portfolio/ProjectBid.pdf).
 
 ## Map Style
