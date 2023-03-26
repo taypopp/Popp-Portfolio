@@ -42,21 +42,29 @@ And Z zoom extent.
 
 | Feature Type | Element Type | Stylers |
 | ------------- | ------------- | ------------- |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
-| c | c | c |
+| All | Geometry | Color: Black |
+| All | Geometry/Stroke | Color: White |
+| All | Labels/Text Fill | Color: Orange |
+| All | Labels/Text Outline | Color: Black |
+| Administrative | Geometry | Color: Light Gray |
+| Administrative | Geometry/Stroke | Color: Light Gray |
+| Country | Geometry/Fill | Color: White |
+| Country | Geometry/Stroke | Color: White |
+| Country | Lables/Text Fill | Color: Light Gray |
+| Province | Geometry/Stroke | Color: Light Gray |
+| Locality | Labels/Text Fill | Color: Light Gray |
+| Land Parcel | All | Color: Light Gray |
+| Land Parcel | Geometry/Fill | Color: Dark Gray |
+| Points of Interest | Labels/Text Fill | Color: Light Gray |
+| Park | Geometry | Color: Dark Gray |
+| Park | Labels/Text Fill | Color: Green |
+| Park | Labels/Text Outline | Color: Black |
+| Road | Geometry/Fill | Color: Light Gray |
+| Road | Labels/Text Fill | Color: Light Gray |
+| Highway | Geometry | Color: Light Gray |
+| Controlled Access | Geometry | Color: Light Gray |
+| Arterial | Geometry | Color: Light Gray |
+| Local | Labels/Text Fill | Color: Light Gray |
+| Transit | Labels/Text Fill | Color: Dark Gray |
+| Water | Geometry | Color: Dark Gray |
+| Water | Labels/Text Fill | Color: Green |
