@@ -40,4 +40,23 @@ And Z zoom extent.
 
 ## The Specifics
 
-table
+| Feature Type | Element Type | Stylers |
+| ------------- | ------------- | ------------- |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
+| c | c | c |
