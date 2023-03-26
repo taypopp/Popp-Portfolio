@@ -3,8 +3,23 @@
 ## The Bid
 
 | Date | Task | Estimated Hours | Actual Hours | Cost |
-| ------------- | ------------- | ------------- |
-| c | c | c | c | c |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 03/24/23	| Create task plan and estimate time frames	|	0.50	|	0.50	|	$50	|
+|03/24/23 |	Familiarize with WWF’s brand by looking over website |	0.75	|	0.50	|	$50	|
+|03/24/23	|	Choose images for color palette	|	0.50	|	1.00	|	$100	|
+|03/24/23	|	Develop color palette from images	|	0.25	|	0.25	|	$25	|
+|03/24/23	|	Create downloadable palette with HEX codes in Adobe Express	|	1.00	|	1.50	|	$150	|
+|03/24/23	|	Apply color palette to map style in Google JSON Styling Wizard	|	2.00	|	2.00	|	$200	|
+|03/24/23	|	Create base HTML page with relevant text/story telling	|	0.50	|	0.50	|	$50	|
+|03/24/23	|	Create lookup table in HTML	|	0.25	|	0.25	|	$50	|
+|03/26/23	|	Add downloadable JSON to HTML page	|	0.25	|	0.75	|	$75	|
+|03/26/23	|	Take screenshots of map	| 0.25	|	0.25	|	$25	|
+|03/26/23	|	Add screenshots to HTML page	|	0.25	|	0.25	|	$25	|
+|03/26/23	|	write instructions to use materials	|	0.25	|	0.25	|	$25	|
+|03/26/23	|	Create printable version of bid	|	1.00	|	1.5	|	$150	|
+|03/26/23	|	Upload printable bid	|	0.25	|	0.25	|	$25	|
+| 	|	TOTAL	| 8.00	|	9.75	|	$975	|
+
 
 Download a printable version of the bid [here](https://taypopp.github.io/Popp-Portfolio/ProjectBid.pdf).
 
