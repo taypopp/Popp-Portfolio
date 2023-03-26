@@ -14,6 +14,10 @@ Beyond that, there aren't any colors that are consistently used by WWF. Given th
 
 I also included two shades of gray. While there are more interesting colors used across the homepage (the image with the heading "People and communities," for instance), but shades of gray with a couple pops of color feels more consistent with WWF's brand.
 
+### How To Use This Style
+
+To embed this style into the organization's existing web maps, team members can download the following JSON file. This file contains all relevant information for the style and can be quickly applied to an online map application, particularly in Google cloud based services. Within the organization's Google Cloud Console, go to map styles and create a new project. There will be an option to "Use the legacy JSON Styling Wizard." Select that option, click the three dots in the upper right corner, and select "Import JSON." From there, simply open the JSON style document as a text file, copy all code within the file, and paste it in the box for importing JSON files. Now your map will include your custom style!
+
 <a href="/WWFbasemap.json" download>Download the Style</a>
 
 ## In Action
