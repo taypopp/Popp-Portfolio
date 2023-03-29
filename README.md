@@ -21,6 +21,8 @@ After graduation, I will be a Lead GIS Analyst for the City of Philadelphia. I w
 
 ### [World Wildlife Fund Custom Basemap Bid](https://taypopp.github.io/Popp-Portfolio/WWFbasemap.html)
 
+### [Ottawa Traffic Collisions](https://taypopp.github.io/Popp-Portfolio/collisions.html)
+
 ## Telling Stories with Data Portfolio
 
 ### [King County Demo](https://taypopp.github.io/Popp-Portfolio/KingCountyDemo.html)
