@@ -23,6 +23,8 @@ After graduation, I will be a Lead GIS Analyst for the City of Philadelphia. I w
 
 ### [Ottawa Traffic Collisions](https://taypopp.github.io/Popp-Portfolio/collisions.html)
 
+### [Philly Floods and Permeable Surfaces](https://storymaps.arcgis.com/stories/27b47df498ff4de08c8cc9071a4a782f)
+
 ## Telling Stories with Data Portfolio
 
 ### [King County Demo](https://taypopp.github.io/Popp-Portfolio/KingCountyDemo.html)
